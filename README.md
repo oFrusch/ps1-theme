@@ -36,19 +36,7 @@ Twelve themes across three axes:
 | High Contrast | PS1 Light High Contrast | PS1 Dark High Contrast |
 | Soft | PS1 Light Soft | PS1 Dark Soft |
 
-…each also as `… (No Italics)`.
-
-### A note on contrast
-
-The **High Contrast** pair clears WCAG AA (4.5:1) for body text and syntax including
-comments. **Standard** clears AA-large (3:1) on code tokens with comfortable body text.
-**Soft** is deliberately gentle — some syntax colors fall below AA by design, in
-exchange for a lower-fatigue feel. Pick Soft for vibe, HC for strict accessibility.
-
 ## Install
-
-**From the Zed extension registry** (once published): open the Extensions panel
-(`cmd-shift-x`), search **PS1**, install.
 
 **Manually / for development:** clone this repo, then in Zed run
 `zed: install dev extension` and point it at this directory.

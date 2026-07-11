@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Owen Carpenter <owen.carpenter@blueconic.com>"]
 description = "A PlayStation 1 theme family — beige console plastic and the four controller-button colors doing the syntax work. Light, dark, high-contrast, and soft variants, with italic and no-italic editions."
-repository = "https://github.com/ofrusch/ps1-theme"
+repository = "https://github.com/oFrusch/ps1-theme"
